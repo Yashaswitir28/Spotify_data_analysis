@@ -67,6 +67,8 @@ Integrate advanced visuals using custom Power BI visualizations.
 
 # Dashboard Preview
 Below is a preview of the Power BI dashboard:
+![image](https://github.com/user-attachments/assets/9455596c-16e5-4a5b-8fcb-7b2bec149c1f)
+
 
 
 
